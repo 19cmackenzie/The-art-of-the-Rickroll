@@ -1,0 +1,27 @@
+body{
+    background-color:antiquewhite;
+
+}
+img{
+    border-radius: 300px;
+    width: 340px;
+}
+a{
+    font-size: 30px;
+    text-align: center;
+    background-image: image(img/final_img)
+}
+div{
+  display: inline-block;
+  vertical-align: top;
+  padding: 5px;
+  padding-top: 1px;
+  width: 669px;
+}
+a, p, h1, h2, span{
+    font-family: 'Piedra', cursive;
+    width:669px;
+}
+span{
+    font-family: cursive
+}
